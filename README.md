@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ivanrosaleset24@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ivanrosales-/](https://www.linkedin.com/in/ivanrosales-/)
+- 📄 You can find me in LinkedIn [https://www.linkedin.com/in/ivanrosales-/](https://www.linkedin.com/in/ivanrosales-/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
