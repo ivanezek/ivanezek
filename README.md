@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Iván</h1>
+<h1 align="center">Hi 👋, I'm Iván!</h1>
 <h3 align="center">A passionate Front End Developer Jr from Argentina</h3>
 
-- 🌱 I’m currently learning to be **a Full Stack Developer**
+- 🌱 I’m currently learning JavaScript in Coderhouse. My goal is to become **a Full Stack Developer**
 
 - 📫 How to reach me **ivanrosaleset24@gmail.com**
 
